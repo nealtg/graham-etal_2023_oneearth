@@ -1,7 +1,6 @@
 [![DOI](https://zenodo.org/badge/265119113.svg)](https://zenodo.org/badge/latestdoi/265119113)
 
-# metarepo
-Template repository for a single point of access meta-repository to reproduce an experiment
+# The Future Global Water Savings Potential of Agricultural Trade Integration
 
 ## Purpose
 A meta-repository creates a single point of access for someone to find all of the components that were used to create a published work for the purpose of reproducibility.  This repository should contain references to all minted data and software as well as house any ancillary code used to transform the source data, create figures for your publication, conduct the experiment, and / or execute the contributing software.
